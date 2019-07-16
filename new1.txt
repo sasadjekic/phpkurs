@@ -1,0 +1,4 @@
+prvi red
+drugi red
+treci red
+4 red
